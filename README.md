@@ -40,7 +40,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=FFA518)&nbsp;
 ![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=WPF&logoColor=FFA518)&nbsp;
 ![WCF](https://img.shields.io/badge/-WCF-05122A?style=flat&logo=WCF&logoColor=FFA518)&nbsp;
-![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=JavaFX&logoColor=FFA518)&nbsp;
+![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=javafx&logoColor=FFA518)&nbsp;
 ![Servlets](https://img.shields.io/badge/-Servlets-05122A?style=flat&logo=Servlets&logoColor=FFA518)&nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC&logoColor=FFA518)&nbsp;
 ![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=XML&logoColor=FFA518)&nbsp;
@@ -56,7 +56,7 @@
 ![MSSQL](https://img.shields.io/badge/-MSSql-05122A?style=flat&logo=mssql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](<https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=rgb(197,144,239)>)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=white)&nbsp;
 ![intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android%20Studio)&nbsp;
 
