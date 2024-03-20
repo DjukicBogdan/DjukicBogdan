@@ -64,7 +64,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=djukicbogdan&theme=tokyonight&no-frame=true&column=5&row=2&rank=SSS,SS,S,AAA,AA,A,B,C)
+![trophy](https://github-profile-trophy.vercel.app/?username=DjukicBogdan&theme=tokyonight&no-frame=true&column=5&row=2&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
