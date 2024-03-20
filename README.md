@@ -48,29 +48,32 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
 ![WorkBench](https://img.shields.io/badge/-WorkBench-05122A?style=flat&logo=workbench)&nbsp;
 ![MSSQL](https://img.shields.io/badge/-MSSql-05122A?style=flat&logo=mssql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](<https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=rgb(197,144,239)>)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android%20Studio)&nbsp;
 
 </div>
 
 <div align="center">
-   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DjukicBogdan&theme=dark&hide_border=false&show_icons=true" /> 
+   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DjukicBogdan&theme=tokyonight&hide_border=false&show_icons=true" /> 
 </div>
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=djukicbogdan&theme=onestar&no-frame=true&column=3&row=2)
+![trophy](https://github-profile-trophy.vercel.app/?username=djukicbogdan&theme=tokyonight&no-frame=true&column=3&row=2)
 
 </div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjukicBogdan&langs_count=10&theme=tokyonight&layout=compact" alt="DjukicBogdan :: Top Langs" /></p>
 <br>
 
+  
 
 
 <div align="center"> 
