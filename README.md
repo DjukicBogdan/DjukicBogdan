@@ -68,11 +68,10 @@
 
 </div>
 
-<div align="center">
- <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjukicBogdan&theme=dark&hide_border=false&no-bg=true&no-frame=true&show_icons=true&count_private=true&langs_count=8"/>
-</div>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjukicBogdan&langs_count=10&theme=tokyonight&layout=compact" alt="DjukicBogdan :: Top Langs" /></p>
 <br>
+
+
 
 <div align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=DjukicBogdan&label=Profile%20views&color=0047AB&style=plastic?" alt="djukicbogdan" height=25px, width=160px/> 
