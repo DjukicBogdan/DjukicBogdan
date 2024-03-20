@@ -78,7 +78,7 @@
 
 
 <div align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=DjukicBogdan&label=Profile%20views&color=0047AB&style=plastic?" alt="djukicbogdan" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=DjukicBogdan&label=Profile%20views&color=0047AB&style=plastic?" alt="DjukicBogdan" height=25px, width=160px/> 
 </div>
 
 <!--
