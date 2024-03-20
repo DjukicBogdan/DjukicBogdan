@@ -9,10 +9,10 @@
 
 - **Languages**:
     
-    ![Javascript](https://img.shields.io/badge/JavaScript%20-rgb(239,216,29).svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Java](https://img.shields.io/badge/Java%20-rgb(83,130,161).svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Csharp](https://img.shields.io/badge/Csharp%20-rgb(108,40,126).svg?style=for-the-badge&logo=Csharp&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP%20-rgb(114,119,173).svg?style=for-the-badge&logo=PHP&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/JavaScript%20-rgb(239,216,29).svg?style=plastic&logo=javascript&logoColor=black)
+    ![Java](https://img.shields.io/badge/Java%20-rgb(83,130,161).svg?style=plastic&logo=Java&logoColor=white)
+    ![Csharp](https://img.shields.io/badge/Csharp%20-rgb(108,40,126).svg?style=plastic&logo=Csharp&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP%20-rgb(114,119,173).svg?style=plastic&logo=PHP&logoColor=white)
 </p>
 
 <!--
