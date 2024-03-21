@@ -72,8 +72,7 @@
    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DjukicBogdan&theme=tokyonight&hide_border=false&show_icons=true" /> 
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjukicBogdan&langs_count=10&count_private=true&theme=tokyonight&layout=compact" alt="DjukicBogdan :: Top Langs" />
-</p>
+
 <br>
 
 
